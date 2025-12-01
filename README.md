@@ -15,6 +15,8 @@
   <img src="https://img.shields.io/badge/SQL-MySQL-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Language-SQL-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Platform-Codio-lightgrey?style=flat-square" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
+
 
   <!-- Project Status -->
   <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square" />
