@@ -313,4 +313,4 @@ erDiagram
 This project is licensed under the **MIT License**.  
 You are free to use, modify, and distribute this project, provided proper credit is given.
 
-See the full license text in the [`LICENSE`](LICENSE) file.
+
