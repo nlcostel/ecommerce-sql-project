@@ -1,3 +1,29 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Ecommerce%20SQL%20Project-Data%20Analytics%20Portfolio-blueviolet?style=for-the-badge" alt="Project Banner"/>
+</p>
+
+<h1 align="center">🛒 Ecommerce SQL Analytics Project</h1>
+
+<p align="center">
+  A complete end-to-end SQL project including database schema design, CSV ingestion, analytical queries, predictive modeling, and reporting.
+</p>
+
+
+<p align="center">
+
+  <!-- Tech Stack -->
+  <img src="https://img.shields.io/badge/SQL-MySQL-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Language-SQL-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Platform-Codio-lightgrey?style=flat-square" />
+
+  <!-- Project Status -->
+  <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square" />
+
+  <!-- License -->
+  <img src="https://img.shields.io/badge/License-MIT-purple?style=flat-square" />
+
+</p>
+
 # E-Commerce Customer Insights & Predictive Modeling (SQL Project)
 ## A complete SQL analytics project featuring data modeling, business insights, and predictive analysis.
 
