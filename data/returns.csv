@@ -1,1 +1,4 @@
+return_id, order_id, return_date, return_reason
+1, 5005, 2023-03-12, Defective
+2, 5002, 2023-01-25, Not as described
 
