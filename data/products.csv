@@ -1,1 +1,11 @@
-
+product_id, product_name, category, price
+1001, Wireless Mouse, Electronics, 25.99
+1002, Mechanical Keyboard, Electronics, 89.99
+1003, USB-C Charger, Electronics, 19.99
+1004, Noise Cancelling Headphones, Electronics, 199.99
+1005, Bluetooth Speaker, Electronics, 49.99
+1006, Smart LED Light Bulb, Home, 14.99
+1007, Air Purifier, Home, 129.99
+1008, Electric Kettle, Home, 39.99
+1009, Coffee Maker, Home, 79.99
+1010, Blender, Home, 59.99
