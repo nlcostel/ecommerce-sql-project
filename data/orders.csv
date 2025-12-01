@@ -1,1 +1,11 @@
-
+order_id, customer_id, order_date, order_status
+5001, 1, 2023-01-15, Completed
+5002, 3, 2023-01-20, Shipped
+5003, 2, 2023-02-05, Completed
+5004, 5, 2023-03-01, Completed
+5005, 4, 2023-03-10, Cancelled
+5006, 6, 2023-04-05, Completed
+5007, 7, 2023-04-14, Completed
+5008, 8, 2023-05-03, Completed
+5009, 9, 2023-06-12, Completed
+5010, 10, 2023-02-28, Completed
